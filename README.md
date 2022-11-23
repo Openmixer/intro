@@ -20,4 +20,5 @@ Open source Livemixer base on **Arch-Linux**
 |10 Gigabit Lan (Dante & Stagebox)  |✅                                                        |
 
 ###Installation
+
 Coming soon....
