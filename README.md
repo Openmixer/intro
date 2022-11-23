@@ -19,6 +19,6 @@ Open source Livemixer base on **Arch-Linux**
 |Thunderbolt 3/4   |✅                                                        |
 |10 Gigabit Lan (Dante & Stagebox)  |✅                                                        |
 
-###Installation
+### Installation
 
 Coming soon....
